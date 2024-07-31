@@ -1,7 +1,7 @@
 # Eye-Exercise
-This is an exercise in user movement tracking and feedback/response coding.  
+This is an exercise in user movement tracking and feedback/response coding.  It illustrates how the code is critical to user interface and experience.
 
-Future Improvements: This form is a demonstration using one of the largest libraries for forms via Formik. Future improvements will be to utilize further Formik features through more extensive applications into web-based forms for capturing input user data and seemless user interfaces.
+Future Improvements: Future improvements will be to enable custom user inputs of eye color, or even a gradient eye color based off mouse location.  
 
 To Run: Copy and Run the application | NPM Install, including imports | NPM Start to run | Open and view in web browser
 
