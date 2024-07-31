@@ -1,5 +1,5 @@
 # Eye-Exercise
-This is an exercise in user movement tracking and feedback/response coding.  It illustrates how the code is critical to user interface and experience.
+## This is an exercise in user movement tracking and feedback/response coding.  It illustrates how the code is critical to user interface and experience.
 
 Future Improvements: Future improvements will be to enable custom user inputs of eye color, or even a gradient eye color based off mouse location.  
 
